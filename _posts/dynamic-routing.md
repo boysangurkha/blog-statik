@@ -10,10 +10,16 @@ ogImage:
   url: '/assets/blog/dynamic-routing/cover.jpeg'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+## Dag 1
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+Aangezien ik zeer late slaper ben, wilde ik zeker zijn dat ik volledig uitgerust en vol energie aan mijn eerste stagedag ooit kon beginnen. Vroeg in bed gaan liggen (22u) heeft niets geholpen. Ben er in geslaagd om pas tegen 5u in slaap te vallen (wss door de stress?) en ben zeker niet pissed opgestaan. Ik had al een paar jaar geleden in Leuven gestudeerd en had de overvolle en altijd te laat komende treinen vanuit Mechelen zeker gemist :) Ik was wat nerveus maar uiteindelijk was dit voor niets nodig. Mijn eerste dag was super chill. Werd warm onthaald en heb de mensen hier ook wat leren kennen. Ik was vooral verbaasd dat ik op 2u slaap überhaupt nog kon functioneren. Het was een super chille dag waar ik de meeste mensen heb leren kennen.
 
-## Lorem Ipsum
+## Dag 2 & 3
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+Ik kon beginnen aan de Craft CMS tutorials. Ik moet zeggen, het is de eerste keer in mijn leven dat ik de nacht voor ik moet “werken” er niet tegenop keek om te gaan. Ik vind het hier een super aangename sfeer met toffe mensen. Wanneer er moet doorgewerkt worden, wordt dit gedaan. Er is ook altijd plaats voor het sociale aspect en grapjes. Dit zijn de eerste dinges die me wat opvielen. Wanneer ik vastzit kon ik altijd wel terecht bij iemand en zat nooit met mijn duimen te draaien. Karel-Jan heeft me ook goed begeleid en mijn eerste opdracht die ik moet maken uitgelegd. Ik heb op het einde van dag 3 ook kennisgemaakt met Tailwind CSS. Mijn leven met coderen is zoveel keer makkelijker geworden door Tailwind :)
+
+## Dag 4 - heden
+Ik kon eindelijk beginnen aan mijn eerste opdracht (Vario website). Ik was geschokt hoe snel mijn dagen voorbijvlogen (door het constant coderen). Dit vond ik altijd een van de leukste dinges aan frontend development. Wanneer ik aan iets bezig ben vliegen de uren voorbij (aangezien ik het ook graag doe). Na veel schelden in mijn hoofd begin ik meer en meer mijn weg te vinden tussen alle grote files :) Soms moest ik bij mensen even wat hulp vragen en tot nu toe was het altijd met veel plezier gedaan. Ik ben zelf iemand die altijd probeert om alles zelf gewoon op te lossen, maar als het nu eenmaal niet gaat, ben ik meer dan welkom bij iedereen om op hun schouder te kloppen.
+
+Mijn eerste 2 weken als stagiair bij Statik verliepen heel vlot en ik kijk uit naar wat de volgende weken voor mij in petto gaan hebben :)
+
