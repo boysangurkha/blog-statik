@@ -6,7 +6,7 @@ date: '2023-03-24T05:35:07.322Z'
 author:
   name: Boysangur Khadjiev
   picture: '/assets/blog/authors/boy.png'
-[label](dynamic-routing.md)ogImage:
+ogImage:
   url: '/assets/blog/dynamic-routing/ss.png'
 ---
 
