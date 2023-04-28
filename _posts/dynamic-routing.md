@@ -1,29 +1,25 @@
 ---
-title: 'Vasten en werk'
-excerpt: 'De Ramadan is al paar weken bezig en ik ben zelf dus ook aan het vasten.In deze blog zal ik uitleggen hoe ik dit ervaar bij Statik'
-coverImage: '/assets/blog/dynamic-routing/cover2.jpg'
-date: '2023-04-14T05:35:07.322Z'
+title: 'Suikerfeest bij Statik!'
+excerpt: 'Na weken vasten is het Suikerfeest aangebroken! Samen met Daphne van Statik hebben we een mini Suikerfeest op het werk georganiseerd met allemaal Tsjetsjeense lekkernijen!'
+coverImage: '/assets/blog/dynamic-routing/ramadan.jpg'
+date: '2023-04-28T05:35:07.322Z'
 author:
   name: Boysangur Khadjiev
   picture: '/assets/blog/authors/boy.png'
 ogImage:
-  url: '/assets/blog/dynamic-routing/cover2.jpg'
+  url: '/assets/blog/dynamic-routing/ramadan.jpg'
 ---
 
-De Ramadan is al paar weken bezig en ik ben zelf dus ook aan het vasten.In deze blog zal ik uitleggen hoe ik dit ervaar bij Statik.
+Na weken vasten is het Suikerfeest aangebroken! Samen met Daphne van Statik hebben we een mini Suikerfeest op het werk georganiseerd met allemaal Tsjetsjeense lekkernijen!
 
-## Ramadan bij Statik
+## Suikerfeest
 
-De eerste dagen was het voor mij zeer moeilijk. We moeten stoppen met eten vanaf zonsopgang. Dit tijdstip wordt "Suhoor" genoemd en deze hangt af aan de stand van de zon. De eerste dagen viel dit tijdstip rond 6u in de ochtend. Ik werd dan wakker, ging eten en vertrok erna naar Statik. Dan was ik al zeer vroeg op het werk en kon ook dan altijd vroeger naar huis. Het etenstijd viel rond 20u dus was het heel lang overleven :p
+Na weken vasten was het eindelijk zover! Mijn collega's keken er ook hard naar uit. Het is immers voor hun iets helemaal nieuws wat ze nog nooit hebben geproefd en gegeten. Mijn moeder heeft een heleboel eten uit onze Tsjetsjeense keuken klaargemaakt en we waren heel benieuwd naar de reacties.
 
-Aangezien we paar weken verder zijn en de zon vroeger opkomt, is het "Suhoor"-tijdstip vroeger (ca. 5u10). Voor mij is dit niet meer haalbaar, waardoor ik de dag ervoor veel eet en gewoon de volgende ochtend zoals gewoonlijk opsta. Ik eet dan niks, maar voor mij is dit geen probleem.
+Iedereen vond het super lekker en het werd zeer geapprecieerd. Voor mijn moeder hadden ze een boeket en kaartje als cadeau klaarliggen, wat ik en mijn moeder dan super lief vonden :) Het was een heel aangename dag en ik was blij dat ik ook een bijdrage kon leveren aan wat "teambuilding" in Statik.
 
-Op Statik gaan ze hier heel begripvol mee om. De eerste dagen kreeg ik vaak de vragen zoals "Is het oke voor jou dat er hier eten op de toog sta?". Voor mij maakt dit allemaal niet uit. Ik apprecieer het wel enorm dat mensen hier wel rekening mee willen houden.
+## Salespitch voor Natuurinvest Vlaanderen
 
-Mijn collega Daphne heeft me ook aangesproken om iets te organiseren i.v.m. de Suikerfeest op het einde van de maand Ramadan. Ik heb dan zelf voorgesteld om allemaal eten en lekkernijen van thuis mee te nemen en een buffetje te organiseren voor Statik. Zij gaan zelf ook wat lekkers voorzien dus ik kijk er zeker naar uit :)
-
-## Design?
-
-Ik heb ook mijn eerste kleine design opdrachtjes gekregen. Dit was vrijblijvend om te kiezen, aangezien ze ook wisten dat ik ook vooral design gericht ben. Het was leuk om even iets anders te doen ipv coderen :)
+Nu ik al weken bezig was met coderen en ze mijn design skilss wat wilden testen, mocht ik mijn eerste echte design maken. Deze was voor Natuurinvest die een rebranding nodig hebben voor hun website. Na dagen experimenteren, zoeken, feedback, kritiek etc. kwam ik met een uiteindelijk design waar ik zelf wel fier op was. Na wat tweaks en feedback van ons design lead werd deze gestuurd naar de klant. Wij wachten hier nog op feedback en ik ben zeer benieuwd :)
 
 
