@@ -1,13 +1,13 @@
 ---
 title: 'Werken of studeren?'
 excerpt: 'Mijn stage zit er bijna op! Wwat ga ik nu doen na mijn studies? Ga ik werken of studeren?'
-coverImage: '/assets/blog/dynamic-routing/ss.png'
+coverImage: '/assets/blog/dynamic-routing/cover2.jpg'
 date: '2023-05-05T05:35:07.322Z'
 author:
   name: Boysangur Khadjiev
   picture: '/assets/blog/authors/boy.png'
 ogImage:
-  url: '/assets/blog/dynamic-routing/ss.png'
+  url: '/assets/blog/dynamic-routing/cover2.jpg'
 ---
 
 Mijn stage zit er bijna op! Wwat ga ik nu doen na mijn studies? Ga ik werken of studeren?
